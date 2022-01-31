@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+body,
+main {
+  margin: 0;
+  padding: 0;
+  background-image: url(/images/newgradient.jpeg);
+}
+.img-box {
+  position: absolute;
+
+  bottom: 10px;
+  left: 10vw;
+}
+.img-box img {
+  width: 50vw;
+  position: relative;
+}
